@@ -1,6 +1,6 @@
 package com.example.veronika.secondsight;
 
-/*Здесь хранятся настройки автофокусировки*/
+/*Р—РґРµСЃСЊ С…СЂР°РЅСЏС‚СЃСЏ РЅР°СЃС‚СЂРѕР№РєРё Р°РІС‚РѕС„РѕРєСѓСЃРёСЂРѕРІРєРё*/
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.hardware.Camera;
@@ -75,7 +75,7 @@ public final class AutoFocusManager implements Camera.AutoFocusCallback {
   }
 
   /*
-  Ручная фокусировка
+  Р СѓС‡РЅР°СЏ С„РѕРєСѓСЃРёСЂРѕРІРєР°
    */
   synchronized void start(long delay) {
   	outstandingTask = new TimerTask() {

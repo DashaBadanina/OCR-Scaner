@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\exploded-aar\SecondSight\openCVLibrary2410\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6a4bc70c8df5683e95953b9b0210d598cbfa1ba">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\debug\classes-3615707357ae62ee16389046fcabea43e66ed6c5.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-80cc5eb0c41746e4fbb315aad6b444e26923863d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\release\classes-bdcc3489cf21e677d308e88dd6c19976cb40222c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-0a1900fe3df17aa3832b07cb018a97fe3c0ec584.jar" />
+    </item>
+    <item
+        jar="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\exploded-aar\SecondSight.libraries\tess-two\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7f1359e9a6cf6309fb7c0dd08db7ec7c5a5a4b8a">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\release\classes-c65db9344794c2661faf0c3e159abbf54d1e708c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Veronika\AndroidStudioProjects\SecondSight\app\build\intermediates\pre-dexed\release\classes-532c1d5a1e0ade6839d253e62b98c987c1d0e356.jar" />
+    </item>
+
+</items>
